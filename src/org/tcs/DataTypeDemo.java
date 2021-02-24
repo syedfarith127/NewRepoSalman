@@ -25,6 +25,9 @@ public class DataTypeDemo {
 		double salary2 = 565864.15648498489;
 		System.out.println("My (double) salary is "+salary2);
 		
+		long phNo = 9876543219l;
+		System.out.println("My phone Number (git) is "+phNo);
+		
 		char gender = 'M';
 		System.out.println("My gender is "+gender);
 		
